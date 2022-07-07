@@ -1,4 +1,4 @@
-# Finance Crawler Backend
-A Money Management Web Application
+# Beej Aadhar Backend
+A marketplace to buy and sell crops
 
-This server side is coupled with presentation layer whose repository can be found at : https://github.com/NightmareNight-em/finance_crawler_frontend
+This server side is coupled with presentation layer whose repository can be found at : https://github.com/NightmareNight-em/Beej-Aadhar-Frontend
